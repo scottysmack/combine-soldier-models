@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\KSS\CITY17_PMC\PMC_II/basehelmet_visor"
+	"$bumpmap"    "models\KSS\CITY17_PMC\PMC_II/basehelmet_visor_nmo"
+
+	$selfillum "1"
+	$selfillumtint "[1 2 3]"
+
+	"$color2" "[0.9 0.9 0.9]"	
+
+	$nocull 1		
+
+	"$phong"	"1"
+	"$phongexponent"	"35"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.25"
+	"$phongfresnelranges"	"[5 7 8]"
+	"$phongexponenttexture" "models\KSS\CITY17_PMC\PMC_II/basehelmet_visor_spc"
+	$ambientocclusion 0
+}
+
+

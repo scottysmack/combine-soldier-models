@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+$basetexture 	"models\KSS\CITY17_PMC\PMC_I\gasmask"
+$bumpmap 	"models\KSS\CITY17_PMC\shared\normal"
+$selfillum "1"
+
+"$allowdiffusemodulation"	"1"
+"$phong" "1"
+"$phongexponent" "25"
+"$phongboost" "1"
+"$phongfresnelranges" "[.1 .15 .18]"
+$phongexponenttexture 	"models\KSS\CITY17_PMC\PMC_I\gasmask_exp"
+
+$halflambert 0
+$ambientocclusion 1
+
+}

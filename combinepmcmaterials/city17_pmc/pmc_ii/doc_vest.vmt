@@ -1,0 +1,18 @@
+vertexlitgeneric
+{
+
+	$baseTexture 	"models\KSS\CITY17_PMC\PMC_II/DOC_Vest_Diff"
+	$bumpmap 	"models\KSS\CITY17_PMC\PMC_II/DOC_Vest_Normal"
+
+	"$color2" "[.6 .6 .6]"	
+
+	$nodecal 1 
+	$model 1
+
+	$phong 1
+	$phongboost "0.2"
+	$phongexponent 5.5
+	$phongtint "[.85 .85 1]"
+	"$phongfresnelranges"	"[.5 3 48]"
+	$ambientocclusion 1
+}

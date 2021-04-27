@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\KSS\CITY17_PMC\PMC_II\riot_gear_RU"
+  	"$bumpmap" "models\KSS\CITY17_PMC\PMC_II\riot_gear_n"
+	"$nocull" 1
+ 	"$phong" "1"
+	"$phongexponent" "33"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.1 .1 1]"	
+	"$alphatest" 1								
+}

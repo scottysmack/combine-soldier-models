@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\KSS\CITY17_PMC\PMC_II/swat_professional_headgear_d"
+	"$bumpmap"    "models\KSS\CITY17_PMC\PMC_II/swat_professional_headgear_n"
+
+	"$color2" "[.5 .5 .5]"
+
+	$nocull 1	
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.01"
+	"$phongfresnelranges"	"[5 7 8]"
+	"$phongexponenttexture" "models\KSS\CITY17_PMC\SHARED\exp"
+
+}
+
+

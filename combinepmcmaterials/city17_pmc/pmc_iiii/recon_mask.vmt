@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture"		"models\KSS\CITY17_PMC\PMC_IIII\recon_mask_d"	
+	 "$bumpmap" 		"models\KSS\CITY17_PMC\PMC_IIII\recon_mask_n"
+	"$allowdiffusemodulation"	"1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.1 .15 .18]"
+	"$lightwarptexture" 		"models\KSS\CITY17_PMC\shared\lightwarp_soft_white"
+	"$phongexponenttexture" 	"models\KSS\CITY17_PMC\shared\phong_exp"
+	"$selfillum" "1"
+	"$selfillummask" 		"models\KSS\CITY17_PMC\PMC_IIII\recon_mask_ref"
+	"$selfillumtint" "1 1 1"
+	"$model" "1"
+}

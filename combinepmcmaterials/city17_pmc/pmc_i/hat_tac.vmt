@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture"		"models\KSS\CITY17_PMC\PMC_I\hat_tac_d"	
+	 "$bumpmap" 		"models\KSS\CITY17_PMC\PMC_I\hat_tac_n"
+	"$allowdiffusemodulation"	"1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.1 .15 .18]"
+	//"$lightwarptexture" 	"models\KSS\shared\lightwarp_soft_white"
+	"$phongexponenttexture" "models\KSS\CITY17_PMC\PMC_I\hat_tac_exp"
+	"$model" "1"
+									// Boost for ambient cube component of rim lighting
+}

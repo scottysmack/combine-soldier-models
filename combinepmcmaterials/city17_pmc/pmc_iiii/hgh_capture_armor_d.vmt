@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+$baseTexture				"models\KSS\CITY17_PMC\PMC_IIII\hgh_capture_armor_d"
+$bumpmap 					"models\KSS\CITY17_PMC\PMC_IIII\hgh_capture_armor_n1"
+$AmbientOcclTexture         "models\KSS\CITY17_PMC\PMC_IIII\hgh_capture_armor_ao"
+	
+$phong 						1
+$phongexponent 				1
+$phongexponenttexture 		"models\KSS\CITY17_PMC\PMC_IIII\hgh_capture_armor_s"
+$phongboost 				0.1
+$phongfresnelranges			"[0.01 0.02 1]"
+$PhongAlbedoTint 			1
+$phongwarptexture 			"models\KSS\CITY17_PMC\PMC_IIII\hgh_capture_armor_g"
+}

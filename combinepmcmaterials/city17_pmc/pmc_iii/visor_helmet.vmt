@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 		"models\KSS\CITY17_PMC\PMC_III\VISOR_MASK"
+	"$bumpmap" 		"models\KSS\CITY17_PMC\PMC_III\VISOR_MASK_N"	
+
+	"$color2" "[.8 .8 .8]"	
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[.1 .15 .18]"
+	"$lightwarptexture" 	"models\KSS\CITY17_PMC\shared\lightwarp_soft_white"
+	"$phongexponenttexture" "models\KSS\CITY17_PMC\shared\phong_exp"
+	"$phongalbedotint" "1"
+}

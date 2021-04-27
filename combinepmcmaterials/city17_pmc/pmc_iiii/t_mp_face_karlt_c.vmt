@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\KSS\CITY17_PMC\PMC_II/t_heads_viktor_01_c"
+	"$bumpmap"    "models\KSS\CITY17_PMC\PMC_II/t_heads_viktor_01_ns"
+	
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.075"
+	"$phongfresnelranges"	"[5 7 8]"
+	"$phongexponenttexture" "models\KSS\CITY17_PMC\PMC_II\t_mp_face_skin_t"
+}
+
+

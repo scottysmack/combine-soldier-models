@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\KSS\CITY17_PMC\PMC_I/pmc_legs_diff"
+	"$bumpmap" 	"models\KSS\CITY17_PMC\PMC_I/pmc_legs_n"
+		
+	"$color2" 	"[0.8 0.8 0.8]"
+
+	"$phong" "1"						
+	"$phongboost"		"0.001" 		
+	"$phongexponent" 		"6"	
+	"$phongfresnelranges"	"[0.76 0.921 1.25]"			
+	"$phongtint" 		"[1 1 1]"			
+	"$PhongAlbedoTint" 	"1"
+
+	"$detail" 			"models\KSS\CITY17_PMC/Shared/detail_cloth2"
+	$detailscale 18
+	$detailblendfactor 0.8
+	$detailblendmode 0 
+
+}
+
+
+

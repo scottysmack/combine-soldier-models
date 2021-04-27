@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\KSS\CITY17_PMC\PMC_II/Arm"
+	 "$bumpmap" 			"models\KSS\CITY17_PMC\PMC_II/Arm_n"
+
+	"$color2" "[.9 .9 .9]"	
+
+	$phong 1
+	$phongboost "0.1"
+	$phongexponent 5.5
+	$phongtint "[.85 .85 1]"
+	"$phongfresnelranges"	"[.5 3 48]"
+
+	$ambientocclusion 1
+
+}

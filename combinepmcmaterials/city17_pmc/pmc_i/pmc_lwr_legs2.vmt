@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\KSS\CITY17_PMC\PMC_I/Legs_Shared"
+	"$bumpmap" "models\KSS\CITY17_PMC\PMC_I/pmc_legs_n"
+		
+	"$color2" "[0.8 0.8 0.8]"
+
+	"$phong" "1"						
+	"$phongboost"	"4" 		
+	"$phongexponent" "12"	
+	"$phongfresnelranges"	"[0.76 0.921 1.25]"			
+	"$phongtint" 			"[1 1 1]"			
+	"$PhongAlbedoTint" "1"
+}
+
+
+

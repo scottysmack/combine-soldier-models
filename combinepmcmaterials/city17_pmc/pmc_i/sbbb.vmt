@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\KSS\CITY17_PMC\PMC_I/SBBB"
+	 "$bumpmap" 			"models\KSS\CITY17_PMC\PMC_I/SBBB_n"
+
+	"$color2" "[0.8 0.8 0.8]"	
+
+	"$allowdiffusemodulation"	"1"
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" "0.25"
+	"$phongfresnelranges" "[.1 .15 .18]"
+
+	"$model" 1
+	$halflambert 0
+	$ambientocclusion 1
+
+	"$detail"			"models\KSS\CITY17_PMC\shared\jeans_detail"
+	"$detailscale"		"10"
+	"$detailblendmode"		"0"
+}

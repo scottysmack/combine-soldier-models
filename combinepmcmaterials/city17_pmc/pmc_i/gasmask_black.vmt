@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+
+$basetexture 	"models\KSS\CITY17_PMC\PMC_I\metrocop_st"
+$bumpmap 	"models\KSS\CITY17_PMC\PMC_I\Metrocop_ST_n"
+
+$selfillum "1"
+$selfillumtint "[1 2 3]"
+
+"$allowdiffusemodulation"	"1"
+"$phong" "1"
+"$phongexponent" "25"
+"$phongboost" "1"
+"$phongfresnelranges" "[.1 .15 .18]"
+$ambientocclusion 1
+
+"Proxies"
+   {
+	"EntityRandom"
+           	 {
+                "scale" "1.99"
+                "resultVar" "$frame"
+               	}
+   }
+}

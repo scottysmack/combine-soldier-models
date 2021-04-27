@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\KSS\CITY17_PMC\PMC_I/backpack_diff"
+	"$bumpmap"    	"models\KSS\CITY17_PMC\PMC_I/backpack_n"	
+	$nocull 1
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges"	"[5 7 8]"
+	"$phongexponenttexture" "models\MadIvan18\exp"
+
+}
+
+

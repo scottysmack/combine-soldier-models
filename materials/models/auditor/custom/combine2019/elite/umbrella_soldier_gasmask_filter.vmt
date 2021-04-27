@@ -1,0 +1,33 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\auditor\custom\combine2019\elite/umbrella_soldier_gasmask_filter_albm"
+	"$bumpmap" "models\auditor\custom\combine2019\elite/umbrella_soldier_gasmask_filter_nrmr"
+	//"$color2" "[0.7 0.7 0.7]"
+	//"$blendTintByBaseAlpha"	"1"
+	//"$additive" "1"
+	//$translucent 1
+	//$ambientocclusion 0
+	//$no_draw 0
+	//"$selfillum" "1"
+	//"$selfillummaskscale" "15"
+	//"$selfillummask" "/chr_ying_main_emi"
+
+	$nocull 0
+	$normalmapalphaenvmapmask 1 	
+
+	//"$envmap" "/metal_generic_002"					
+	"$envmaptint" "[0.04 0.04 0.04]"				
+
+	//ReflectionsDir
+
+	"$phong" "1"						
+	"$phongboost"	"15" 		
+	//"$phongexponent" "2"	
+	"$phongexponenttexture" "models\auditor\custom\combine2019\elite/umbrella_soldier_gasmask_filter_mask"
+	
+	"$phongfresnelranges"	"[0.05 0.25 0.95]"		
+	//"$phongtint" 			"[1 1 1.1]"			
+	"$PhongAlbedoTint" "1"
+
+
+}

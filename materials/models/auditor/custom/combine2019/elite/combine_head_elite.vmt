@@ -1,0 +1,49 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\auditor\custom\combine2019/elite/combine_head_elite_col"
+	"$bumpmap" "models\auditor\custom\combine2019/combine_head_nml"
+	//"$color2" "[0.7 0.7 0.7]"
+	//"$blendTintByBaseAlpha"	"1"
+	//"$PhongDisableHalfLambert" "1"
+	//"$BaseMapAlphaPhongMask" "1"
+	"$PhongDisableHalfLambert" "1"
+	//"$phongtint" "[///RGB_VALUE///]"	
+
+	//TRANSPARENCY AND AO:
+
+	//"$additive" "1"
+	//"$translucent" "[///VALUE///]"
+	//"$alphatest" "1"
+	//"$alphatestreference" "[///VALUE///]"
+	//"$ambientocclusion" "0"
+
+	//SELFILLUMINATION:
+
+	//"$selfillumtint" "[2 2 2]"
+	//"$selfillum" "1"
+
+
+	//MISC:
+
+	//"$nocull" "1"	
+
+	//$lightwarptexture ""
+	//"$phongwarptexture"		""
+	"$phongexponent" "3"	
+
+	//"$rimlight" "1"
+	//"$rimlightboost" "1"
+	//"$rimmask" "1"
+
+	//IMPORTANT:
+	"$detail" "models\auditor\custom\combine2019\detail_noise"
+	"$detailscale"	"15"
+	"$detailblendfactor"	"3"
+	"$detailblendmode"	"0"
+	"$phong" "1"						
+	"$phongboost"	"10" 		
+	//"$phongexponenttexture" "models\auditor\custom\combine2019/combine_head_mask"  ///UV88, 0.8
+	"$phongfresnelranges"	"[0.02 0.15 0.65]"					
+	//"$PhongAlbedoTint" "1"
+
+}

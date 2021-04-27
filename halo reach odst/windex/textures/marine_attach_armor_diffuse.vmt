@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture					"models/suno/katydid/odst_attach_armor_d"	
+  	$bumpmap						"models/suno/katydid/marine_attach_armor_n"
+}

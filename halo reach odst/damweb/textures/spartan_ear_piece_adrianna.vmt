@@ -1,0 +1,23 @@
+"VertexLitGeneric" 
+{
+
+    "$baseTexture" "models/suno/damwab/spartan_ear_piece_adrianna_diff"
+    "$bumpmap" "models/suno/damwab/spartan_ear_piece_adrianna_normal"
+	"$blendtintbybasealpha"	1
+
+	$halflambert 1
+	$nocull 1
+
+	$Normalmapalphaenvmapmask 1	
+
+    $phong 1
+	$phongexponenttexture "models/suno/damwab/HaloSP"
+	$phongboost	15
+	$phongalbedotint 1
+	$phongfresnelranges	"[0.3 0.3 0.3]"
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.05
+	
+}

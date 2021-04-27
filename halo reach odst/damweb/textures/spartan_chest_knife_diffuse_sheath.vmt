@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/suno/damwab/spartan_chest_knife_diffuse"
+    "$bumpmap"    "models/suno/damwab/spartan_chest_knife_normal"
+
+	"$phongexponenttexture" "models/suno/damwab/green"
+	"$phongexponent" "15"
+
+	"$phongalbedotint" "1"
+	"$phong" "1"
+	"$phongboost"	"5"
+
+	"$phongfresnelranges"	"[1 1.15 1.75]"
+
+	"$phongexponenttexture" "models/suno/damwab/green"
+
+
+}
+
+
+
+

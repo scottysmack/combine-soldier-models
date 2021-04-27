@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+$baseTexture "models/suno/windex/UNSC_Decals"
+	"$translucent" 1
+	$ambientocclusion 0
+	"$detail"					"models/suno/windex/detail"
+	"$detailscale"				"5"
+	"$detailblendfactor"		"0.65"
+	"$detailblendmode"			"0"
+}

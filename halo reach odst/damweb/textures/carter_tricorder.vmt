@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+$baseTexture "models/suno/damwab/Carter_Tricorder"
+$bumpmap "models/suno/damwab/Tricorder_N"
+
+	"$blendtintbybasealpha"	1
+
+	$halflambert 1
+	$nocull 1
+
+	$Normalmapalphaenvmapmask 1	
+
+    $phong 1
+	// $phongexponent 7
+	$phongexponenttexture "models/suno/damwab/halosp"
+	$phongboost	15
+	$phongalbedotint 1
+	$phongfresnelranges	"[0.3 0.3 0.3]"
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.05
+	"$detail" "models/suno/damwab/tricorder_illum"
+	"$detailscale" "1"
+	"$detailblendfactor" "3"
+	"$detailblendmode" "5"
+	//
+
+}
+

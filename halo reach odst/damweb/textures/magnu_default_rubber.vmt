@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	$basetexture					"models/suno/damwab/magnu_default_d"	
+  	$bumpmap						"models/suno/damwab/magnu_default_n"
+	$envmap 						"models/suno/damwab/cubemap_visors_2"
+	$normalmapalphaenvmapmask 		"1"
+	$envmaptint 					"[1 1 1]"
+	$envmapfresnel 					"1"
+
+	$halflambert					"1"
+	$nocull							"1"
+
+	$phong 							"1"
+	$phongexponenttexture 			"models/suno/damwab/phongexp_reach"
+	$PhongWarpTexture				"models/suno/damwab/phongwarp_metal"
+	$phongalbedotint 				"1"
+	$phongboost 					"5"
+	$phongtint 						"[.1 .1 .1]"
+	$phongfresnelranges 			"[0.2 0.18 1.5]"
+
+	$detail 						"models/suno/damwab/spartan_rubber_detail"
+	$detailscale					"10"
+	$detailblendfactor				".7"	
+	$detailblendmode				"0"
+
+	$rimlight 						"1"
+	$rimlightexponent 				"50"
+	$rimlightboost 					"0.05"
+}

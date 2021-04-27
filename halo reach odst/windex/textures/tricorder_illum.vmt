@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+$baseTexture "models/suno/windex/Tricorder_Illum"
+
+	"$detail" "models/suno/windex/tricorder_illum"
+	"$detailscale" "1"
+	"$detailblendfactor" "3"
+	"$detailblendmode" "5"
+
+}

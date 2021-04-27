@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/suno/damwab/spartan_rubber_suit_diffuse"
+                "$bumpmap"    "models/suno/damwab/spartan_rubber_suit_zbump"
+
+
+	"$color2"	"[1 1 1]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$detail""models/suno/damwab/spartan_rubber_detail"
+	"$detailscale""25"
+	"$detailblendmode""0"
+	"$detailblendfactor""1"
+
+	"$phongexponenttexture" "models/suno/damwab/spartan_rubber_suit_exponent"
+	"$phongexponent" "7.55"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost" "0.24683568248620"
+	"$phongfresnelranges"	"[4 4 8]"
+
+}
+

@@ -1,0 +1,30 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/suno/windex/spartan_helmet_gold_visor"
+    "$bumpmap"    "models/suno/windex/spartan_helmet_player_john117_normal"
+
+	$envmap 						"models/suno/windex/cubemap_visors_2"
+	$envmaptint 					"[2 2 2]"
+	$envmapfresnel 					"1"
+
+	$translucent					"0"
+	$nocull							"0"
+	
+	$phong 							"1"
+	$phongexponenttexture 			"models/suno/windex/phongexp_cov"
+	$PhongWarpTexture				"models/suno/windex/phongwarp_water"
+	$phongalbedotint 				"1"
+	$phongboost 					"1"
+	$phongtint 						"[.4 .4 .4]"
+	$phongfresnelranges 			"[1 1 1]"
+	
+	$detail 						"models/suno/windex/detail"
+	$detailscale					"8"
+	$detailblendfactor				"1"	
+	$detailblendmode				"0"
+
+	$rimlight 						"1"
+	$rimlightexponent 				"50"
+	$rimlightboost 					"0.05"
+}
+

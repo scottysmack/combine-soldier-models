@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$baseTexture 					"models/suno/damwab/unsc_weapon_decals"	
+
+	$alphatest 						1
+	$allowalphatocoverage 			1
+
+	$halflambert 					1
+	$nocull 						1
+}

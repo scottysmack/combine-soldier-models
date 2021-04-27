@@ -1,0 +1,30 @@
+VertexLitGeneric
+{
+	$basetexture					"models/suno/katydid/odst_helmets_2_d"	
+  	$bumpmap						"models/suno/katydid/odst_helmets_2_n"
+	$normalmapalphaenvmapmask 		"1"
+	
+	$envmap 						"models/suno/katydid/cubemap_visors_2"
+	$envmaptint 					"[2 2 2]"
+	$envmapfresnel 					"1"
+
+	$translucent					"0"
+	$nocull							"0"
+
+	$phong 							"1"
+	$phongexponenttexture 			"models/suno/katydid/phongexp_cov"
+	$PhongWarpTexture				"models/suno/katydid/phongwarp_water"
+	$phongalbedotint 				"1"
+	$phongboost 					"1"
+	$phongtint 						"[.4 .4 .4]"
+	$phongfresnelranges 			"[1 1 1]"
+	
+	$detail 						"models/suno/katydid/detail_metal"
+	$detailscale					"8"
+	$detailblendfactor				"1"	
+	$detailblendmode				"0"
+
+	$rimlight 						"1"
+	$rimlightexponent 				"50"
+	$rimlightboost 					"0.05"
+}

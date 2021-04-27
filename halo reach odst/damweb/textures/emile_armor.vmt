@@ -1,0 +1,28 @@
+vertexlitgeneric
+{
+$baseTexture "models/suno/damwab/Emile_Armor"
+$bumpmap "models/suno/damwab/Spartan_Armor_Normal"
+
+	"$blendtintbybasealpha"	1
+
+	$halflambert 1
+	$nocull 1
+
+	$Normalmapalphaenvmapmask 1	
+
+    $phong 1
+	// $phongexponent 7
+	$phongexponenttexture "models/suno/damwab/halosp"
+	$phongboost	15
+	$phongalbedotint 1
+	$phongfresnelranges	"[0.3 0.3 0.3]"
+
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.05	
+	"$detail"					"models/suno/damwab/detail"
+	"$detailscale"				"5"
+	"$detailblendfactor"		"0.65"
+	"$detailblendmode"			"0"
+}
+

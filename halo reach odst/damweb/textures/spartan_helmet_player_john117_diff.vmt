@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/suno/damwab/spartan_helmet_player_john117_diff"
+                "$bumpmap"    "models/suno/damwab/spartan_helmet_player_john117_normal"
+
+	"$color2"	"[1 1 1]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phongexponenttexture" "models/suno/damwab/spartan_helmet_player_john117_exp"
+	"$phongexponent" "7.55"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost" "0.24683568248620"
+	"$phongfresnelranges"	"[4 4 8]"
+
+	"$detail" "models/suno/damwab/detail"
+	"$detailscale"		"15"
+	"$detailblendmode""0"
+	"$detailblendfactor"		"0.7"
+
+}
+

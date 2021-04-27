@@ -1,0 +1,30 @@
+VertexLitGeneric
+{
+	$basetexture					"models/suno/katydid/odst_torso_d"	
+  	$bumpmap						"models/suno/katydid/marine_torso_n"
+	$envmap 						"models/suno/katydid/cubemap_visors_2"
+	$normalmapalphaenvmapmask 		"1"
+	$envmaptint 					"[.7 .7 .7]"
+	$envmapfresnel 					"1"
+
+	$halflambert					"1"
+	$nocull							"0"
+
+	$phong 							"1"
+	$phongexponenttexture 			"models/suno/katydid/phongexp_reach"
+	$PhongWarpTexture				"models/suno/katydid/phongwarp_metal"
+	$phongalbedotint 				"1"
+	$phongboost 					"2"
+	$phongtint 						"[.1 .1 .1]"
+	$phongfresnelranges 			"[0.8 0.8 0.8]"
+	$lightwarptexture				"models/suno/katydid/lightwarp_metallic"
+
+	$detail 						"models/suno/katydid/detail_metal"
+	$detailscale					"10"
+	$detailblendfactor				".6"	
+	$detailblendmode				"0"
+
+	$rimlight 						"1"
+	$rimlightexponent 				"50"
+	$rimlightboost 					"0.05"
+}

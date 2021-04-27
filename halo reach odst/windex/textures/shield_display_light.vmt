@@ -1,0 +1,11 @@
+vertexlitgeneric
+{
+	$baseTexture "models/suno/windex/Shield_Display_Light"
+
+	$alphatest 1
+	"$detail" "models/suno/windex/Shield_Display_Light"
+	"$detailscale" "1"
+	"$detailblendfactor" "3"
+	"$detailblendmode" "5"
+
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$basetexture 			"models\bloocobalt\resident evil\agent\agent_eye_BM"
+	$bumpmap 				"models\bloocobalt\resident evil\agent\agent_eye_NM"
+	
+    $phong 1
+	$phongexponenttexture 	"models\\bloocobalt\resident evil\agent\albedo_tintdefine"
+	$phongalbedotint 1
+	$phongwarptexture		"models\\bloocobalt\resident evil\agent\phongwarp_metal"
+	$phongexponent 5
+	$phongboost 20
+	$phongfresnelranges	"[0.5 1.5 3.0]"
+
+	$rimlight 1						
+	$rimlightexponent 8				
+	$rimlightboost 0.1
+}

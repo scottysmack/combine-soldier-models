@@ -1,0 +1,21 @@
+vertexlitgeneric
+{
+$baseTexture "models\InnerCircle\A3_facemaps\m_white_19_co"
+$bumpmap "models\InnerCircle\A3_facemaps\m_white_19_nohq"
+$nocull 1
+ 	"$blendtintbybasealpha" 1
+
+$phong 1
+$phongboost "2"
+$phongexponent 10
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.2 .5 5]"
+$nodecal 1
+$ambientocclusion 1
+$halflambert 0
+$diffuseexp "1.5"
+	"$detail" "models\InnerCircle\skin_detail"
+	"$detailscale"        "8"
+	"$detailblendfactor"  ".7"
+	"$detailblendmode"    "0"
+}

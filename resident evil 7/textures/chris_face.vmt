@@ -1,0 +1,45 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/auditor/re7/redfield/hazmat/chris_face_col"
+	"$bumpmap" "models/auditor/re7/redfield/hazmat/chris_face_nml"
+
+	"$compress" "models/auditor/re7/redfield/hazmat/chris_face_col"
+	"$bumpcompress" "models/auditor/re7/redfield/hazmat/chris_face_nml"
+
+	"$stretch" "models/auditor/re7/redfield/hazmat/chris_face_col"
+	"$bumpstretch" "models/auditor/re7/redfield/hazmat/chris_face_str"
+
+	"$color2" "[0.9 0.9 0.9]"
+	//"$blendTintByBaseAlpha"	"1"
+	//"$additive" "1"
+	//$translucent 1
+	//$ambientocclusion 0
+	//$no_draw 0
+	//"$selfillum" "1"
+	//"$selfillummaskscale" "15"
+	//"$selfillummask" "/chr_ying_main_emi"
+
+	$nocull 0
+	$normalmapalphaenvmapmask 1 	
+
+	//"$envmap" "/metal_generic_002"					
+	"$envmaptint" "[0.04 0.04 0.04]"				
+
+	//ReflectionsDir
+
+	"$phong" "1"						
+	"$phongboost"	"1" 		
+	//"$phongexponent" "2"	
+	"$phongexponenttexture" "models/auditor/re7/redfield/hazmat/chris_face_mask"
+		
+	//"$phongwarptexture"		"models/auditor/re2/leon/Shared/phongwarp2"		
+	$lightwarptexture "models/auditor/re7/Redfield/Shared/lightwarp_flesh"
+	
+	"$phongfresnelranges"	"[0.2 4 20.75]"		
+	"$phongtint" 			"[1 1 1.1]"			
+	//"$PhongAlbedoTint" "1"
+	//"$rimlight" "1"
+	"$rimmask" "0"
+	"$rimlightboost" "0.5"
+
+}

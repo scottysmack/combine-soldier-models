@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Federation/Winter/fed_basic_loadout_b_col"
+                "$bumpmap"    "models\Federation/Bumpmaps/fed_basic_loadout_b_nml"
+$halflambert 1
+$phong 1
+$phongboost "0.1"
+$phongexponent 9
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 4 30]"
+$ambientocclusion 1
+}

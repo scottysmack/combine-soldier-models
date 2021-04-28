@@ -1,0 +1,40 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/auditor/re7/redfield/hazmat/chris_hair_col"
+	"$bumpmap" "models/auditor/re7/redfield/hazmat/chris_hair_nml"
+	"$color2" "[0.5 0.5 0.5]"
+
+	//"$blendTintByBaseAlpha"	"1"
+	//"$additive" "1"
+	$alphatest 1
+	$alphatestreference 0.5
+	$ambientocclusion 0
+	//$no_draw 0
+	//"$selfillum" "1"
+	//"$selfillummaskscale" "15"
+	//"$selfillummask" "/chr_ying_main_emi"
+
+	$nocull 1
+	$normalmapalphaenvmapmask 1 	
+
+	//"$envmap" "/metal_generic_002"					
+	"$envmaptint" "[0.04 0.04 0.04]"				
+
+	//ReflectionsDir
+
+	"$phong" "1"						
+	"$phongboost"	"0.5" 		
+	//"$phongexponent" "2"	
+	"$phongexponenttexture" "models/auditor/re7/redfield/shared/green3"
+		
+	//"$phongwarptexture"		"models/auditor/re2/leon/Shared/phongwarp2"		
+	$lightwarptexture "models/auditor/re7/redfield/Shared/lightwarp_hair"
+	
+	"$phongfresnelranges"	"[0.35 0.95 1.75]"	
+	"$phongtint" 			"[1 1 1.1]"			
+	//"$PhongAlbedoTint" "1"
+	//"$rimlight" "1"
+	"$rimmask" "0"
+	"$rimlightboost" "0.5"
+
+}

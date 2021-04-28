@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Federation/OldFeds/almagro_upper_body_a_col"
+                "$bumpmap"    "models\Federation/Bumpmaps/venez_army_upper_body_a_nml"
+$halflambert 1
+$phong 1
+$phongboost "0.1"
+$phongexponent 9
+$phongtint "[.85 .85 1]"
+$phongfresnelranges "[.3 4 30]"
+$ambientocclusion 1
+}
